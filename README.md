@@ -1,1 +1,3 @@
-# BRVL-AI
+This repository accompanies the trial protocol "Testing a teacher-in-the-loop offline tutor in Congolese secondary schools: trial protocol and simulation-based design analysis for BRVL-AI", submitted to the International Workshop on Applied AI & Mathematical Methods for Real-world Applications (A2MRA), April 13–15, 2027, Delft, Netherlands.
+
+BRVL-AI is an offline intelligent tutor for secondary-school mechanics that runs on 4 GB laptops and corrects misconceptions through cognitive-conflict scenarios. The paper presents the protocol of a three-arm cluster-randomised trial (AI vs STATIC vs AI+T) and a Monte Carlo design analysis that fixed the number of schools before any outcome data are collected. No outcome data are reported.
